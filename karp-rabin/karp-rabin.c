@@ -1,8 +1,5 @@
 /*
-  Copyright (C) 2014 by Gianluca Della Vedova
-
-
-  You can redistribute this file and/or modify it
+  Copyright (C) 2014 You can redistribute this file and/or modify it
   under the terms of the GNU Lesser General Public License as published
   by the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
